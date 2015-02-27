@@ -1,1 +1,6 @@
 tempfile.txt
+*.zip
+*.gz
+*.giz
+log/*.log
+assets/photoshop/
