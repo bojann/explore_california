@@ -1,5 +1,6 @@
 tempfile.txt
 tempfile2.txt
+tempfile3.txt
 *.zip
 *.gz
 *.giz
